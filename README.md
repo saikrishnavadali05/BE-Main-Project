@@ -1,7 +1,7 @@
-# BE-Main-Project
-Traffic Management System Using IOT Sensors, ARM7, 8051 Micro Controllers.
+# Traffic Management System Using IOT Sensors, ARM7, 8051 Micro Controllers.
+*BE Main Project by Sai Krishna Vadali (1608-14-733-099)*
 
-#### We were successful in achieving these 3 goals through the IOT system :
+## We were successful in achieving these 3 goals through the IOT system :
 1. Green and Red Lights based Traffic Control.
 2. A Special Signal for Any Emergency Vehicle like Ambulance to be permitted on Restricted Paths.
 3. Database Storage and Retrieval of IDs of Authorized and Unauthorized Vehicles.
