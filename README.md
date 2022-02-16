@@ -2,6 +2,6 @@
 Traffic Management System Using IOT Sensors, ARM7, 8051 Micro Controllers.
 
 
-4. [Chapter 4](https://mail.google.com/mail/u/0/#search/sahithi/LXphbRLrghxkrJlVdgdvcwDpKDvWCWBRCdKVtfsdCGq?projector=1)
-5. [Chapter 5](https://mail.google.com/mail/u/0/#search/sahithi/LXphbRLrghxkrJlVdgdvcwDpKDvWCWBRCdKVtfsdCGq?projector=1)
-6. [Chapter 6](https://mail.google.com/mail/u/0/#search/sahithi/LXphbRLrghxkrJlVdgdvcwDpKDvWCWBRCdKVtfsdCGq?projector=1)
+* [Chapter 4](https://docs.google.com/document/d/1HFnG1fI5cUndkMwFvrTF2GpEvC7dBRyX/edit?usp=sharing&ouid=105477905628810372173&rtpof=true&sd=true)
+* [Chapter 5](https://docs.google.com/document/d/1_E7wiiT1_-0rLkdZgm1JXCtGXadXTQWk/edit?usp=sharing&ouid=105477905628810372173&rtpof=true&sd=true)
+* [Chapter 6](https://docs.google.com/document/d/1YgtAUhJfJRh_SkUvWejwmsAkudVcovNG/edit?usp=sharing&ouid=105477905628810372173&rtpof=true&sd=true)
